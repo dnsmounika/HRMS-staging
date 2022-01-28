@@ -1,2 +1,2 @@
-# HRMS-staging
-HRMS staging repo
+# hrms-staging
+hrms staging repo
